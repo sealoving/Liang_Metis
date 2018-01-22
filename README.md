@@ -1,21 +1,28 @@
-# First Week at Metis - Project Benson
+# First Week at Metis & Project Benson
   
 ## A Short and Long Week
-A very short week. Time-wise. Our Seattle Winter cohort started on a Tuesday, as the Monday was MLK day. This means that not only we had to cover more contents each day, but also we lost one precious day to work on the first project (due on Friday!). I remember feeling nervous on Monday night and had trouble falling asleep. I partly blame that on shifting my "late-owl" schedule to "early-bird". Living in Redmond, I spend on average 2.5 hours per day commuting to Seattle downtown by bus. Each day at the bootcamp consists of paired programming, lectures, and project work.    
+It has been a short week, time-wise. Our Seattle Winter cohort started on a Tuesday, as the Monday was MLK day. This means that not only we had to cover more contents each day, but also we lost one precious day to work on the first project (due on Friday!). I remember feeling nervous on Monday night and had trouble falling asleep. I partly blame that on shifting my "late-owl" schedule to "early-bird". Living in Redmond, I spend on average 2.5 hours per day commuting to Seattle downtown by bus. For the first week, I probably slept less than 6 hours per day but remained surprisingly productive, which was quite unusual for me. I guess there was a bit of adrenaline rush there.
+  
+The outcome?
+  
+It turned out a long week, productivity-wise. To be honest, I felt exhausted at the end of the week just like the gym bootcamp classes I've been too, but mentally. I'm not satisfied with how the project turned out - it could have been better (as always), but I'm content with this learning feast and it excites me just thinking about how many more things to learn in the following days. Each day at the bootcamp consists of paired programming, lectures, and project work. The paired programing and lectures laid a necessary foundation for the tools and design thinking to be applied in the project, but they are meant to be a starting point. The core of the learning happens when you try to apply what you've learned. Sites such as stackoverflow quickly became one of my best friends, but there are plenty of times I got lost. Those were the times when the instructors and our teaching assistants would offer immediate help. For someone who's normally comfortable in self-learning at home, this made one of the biggest differences for me.   
 
-The outcome?  
+The other big difference from learning at home is the diversity of the classmates (or should I say, colleagues!). It is refreshing to hear all kinds of ideas/stories from fields like math, economics, earth sciences, astronomy, etc. 
 
-A very long week. Productivity-wise. At the end of the week, I felt exhausted but fulfilled. I'm not satisfied with the the project work - as always it could be better (see the story below), but I'm happy with the amount I learned and the amount I discovered and feel very excited to learn in the days to come. The paired programing and lectures laid a necessary foundation for the tools and design thinking to be applied in the project, and they were meant to be a starting point. And you will navigate through all the obstacles, with helps just a question away. I normally start by googling the question, and usually finding answers from stackoverflow, other people's github repos, etc. But there are plenty of times I got lost, and the instructors and our teaching assistants would offer immediate help, whether a specific technical issue, , or simply stragigical thinking and brainstorming for next steps. For someone who's normally comfortable in self-learning at home, this made one of the biggest difference for me.   
-
-The other big difference from learning at home is the diversity of the classmates (or, colleagues!) is AMAZING.  
-
-The final big difference from learning at home is the environment and social aspects of simply being with a group of people.
-
+Another thing I personally appreciated was the social aspects of these bootcamps. After working from home for a remote employer for months, this environment full of interactions with people is such a nice change.
 ## Project Benson  
 
-### Where to look, What to take  
+The first project is a group project and my team has three people. We got a request from a (fictional) client in NYC, WomenTechWomenYes(WTWY). They have an annual gala at the beginning of the summer, both for publicity of women in technology and for fundraising for their cause. The question: could we provide professional opinions on the placement of their street teams at subway stations, to obtain sign-ups from people that are most likely to attend the gala, and even better, to donate money?
+  
+The suggested dataset is the MTA turnstile data, which is freely available. After some discussion, the team also selected two additional datasets to add to our analysis: demographics such as women population and income level, and the locations of tech companies in NYC. In an ideal world, we were good to go and it felt like once we combine all these, magic would happen. The reality? It was quite a journey through obstacles, and we could not have learned in a better way.
 
-### Dealing with Dirty and Messy 
+### Finding and Understanding Your Data
+
+#### MTA Turnstile
+#### Census 
+#### Tech Company locations
+
+### Dealing with the Dirty and Messy 
 
 ### Learn on the Go
 
