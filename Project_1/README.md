@@ -1,4 +1,4 @@
-### [Return to List](../README.md)
+### [Return to list of blog posts](../README.md)
 
 # First Week at Metis & Project Benson
   
@@ -39,3 +39,5 @@ Another important takeaway was, as watching other teams presenting, I also learn
 ## Final Thoughts
   
 Remember in the movie "Matrix", Neo asked Trinity whether she could operate a helicopter, and she said "Not yet" because she know she was going to learn it in a few seconds? Well, it feels a bit like that in the bootcamp. And things you thought you knew, there might be a better way. Chances are, whatever knowledge gap you have, you will be able to figure it out, or at least a feasible direction, with your "support group" that consists of the instructors, the TAs, and the rest of the class. It's wonderful.
+
+### [Return to list of blog posts](../README.md)
