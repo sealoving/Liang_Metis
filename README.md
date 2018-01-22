@@ -13,9 +13,11 @@ The final big difference from learning at home is the environment and social asp
 
 ## Project Benson  
 
-## Our Approach  
+### Where to look, What to take  
 
-## The Conclusion  
+### Dealing with Dirty and Messy 
+
+### Learn on the Go
 
 ## Final Thoughts  
 
