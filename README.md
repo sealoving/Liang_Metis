@@ -16,15 +16,14 @@ The first project is a group project and my team has three people. We got a requ
   
 The suggested dataset is the MTA turnstile data, which is freely available. After some discussion, the team also selected two additional datasets to add to our analysis: demographics such as women population and income level, and the locations of tech companies in NYC. In an ideal world, we were good to go and it felt like once we combine all these, magic would happen. The reality? It was quite a journey through obstacles, and we could not have learned in a better way.
 
-### Finding and Understanding Your Data
+#### Dealing with the Dirty and and the Messy
+The first obstacle was to clean up the MTA turnstile data. I bet I was not the only one that took some efforts to figure out the meaning of the columns. Each unique combination of the first 4 columns corresponses to one turnstile in the whole NYC subway system. Once that was figured out, data organized by turnstiles for each station was just one "groupby" away in pandas. 
+  
+The second obstacle came from the turnstile entry/exit records. The number is cumulative, so one would assume it goes up monotonically. Quick plots showed big anormalies: sometimes the machine resets (big drop), or surges (big increase). The anormalies threw off the mean by several magnitude, which also makes them easy to be detected, and removed.
 
-#### MTA Turnstile
-#### Census 
-#### Tech Company locations
+At this point we have ranked the stations by mean daily traffic (entries plus exits) for year 2017. Time to merge demographics. Luckily there are cleaned NYC census data availabel on Kaggle.
 
-### Dealing with the Dirty and Messy 
-
-### Learn on the Go
+#### Learning on the Go
 
 ## Final Thoughts  
 
