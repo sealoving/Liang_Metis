@@ -1,4 +1,4 @@
-### [Return to list of blog posts](../README.md)
+### [Return to main list](../README.md)
 
 # First Week at Metis & Project Benson
   
@@ -27,17 +27,16 @@ The suggested dataset is the [MTA turnstile data](http://web.mta.info/developers
 
 **Simplification:**   Not much time left when we got to the point of locating tech company information. A quick search did not return usable compiled location dataset. I found some summarized information from [builtinnyc](https://www.builtinnyc.com/2016/12/13/big-tech-companies-nyc-locations). A quick sketch in Google Map generated the boundaries of the "Tech Hot Zone". From there the last column in our MTA data was created, an indicator of whether a station is in Tech zone or not. If we had more time, I can see this being done in a prettier and more accurate way. But one thing I learned in the journey was to set your priorities wisely.
 
-### The Conclusions
-We selected the top 10 stations using a weighted scoring system that accounted for "daily volume", "women population", "median income". The weight ratio was set to 3:2:2 as a starting point, and tweeking with the client was expected as next step. "In Tech Zone" was provided as stand-alone information for the client. We didn't have time to finalize the visualizaiton using city maps, which I would like to learn sometime.
+### The Recommendation for WTWS
+The subway stations were ranked using a weighted scoring system that accounted for "daily volume", "women population", "median income" and "In Tech Zone". As a starting point, the weights were set to a ratio of 3:2:2:1 for the four factors, respectively. We would like to tweek this parameters further with the client as the next step. For the presentation, we didn't have time to finalize the visualizaiton using city maps.
 
 ### The Presentation
-The only thing I would regret about Project Benson, is not giving enough time to prepare and actually practice the presentation. Our TA offered several times to go over the slides with us, but we were racing against time to get our data in a better shape, without realizing on a practical level that there was always more data and better model, but they mean nothing if you cannot communicate them well. By the way, we also remembered the starting time wrong, which was a careless mistake that significantly cost our performance. 
+One thing I regret about Project Benson, is not giving enough time to prepare and actually practice the presentation. Our TA offered several times to go over the slides with us, but we were racing against time to get our data in a better shape, without realizing on a practical level that there was always more data and better model, but they mean nothing if you cannot communicate them well. By the way, we also remembered the starting time wrong, which was a careless mistake that significantly cost our performance. 
   
-As I said earlier, I'm disappointed that the presentation went worse than we expected. But hey, that's one of the reasons we came to the bootcamp. We got constructive feedbacks from the instructors and TAs, such as how to tailor to specific audience. 
-Another important takeaway was, as watching other teams presenting, I also learned that a coherent story, even though relatively naive, was better than a fancy, but broken one. Good visualization always deserves a fair amount of time and efforts.
+As I said earlier, I'm disappointed that the presentation went worse than we expected. But hey, that's one of the reasons we came to the bootcamp. We got constructive feedbacks from the instructors and TAs, such as how to tailor to specific audience and body languages. Another important takeaway was, as watching other teams presenting, I also learned that a coherent story, even though relatively naive, was better than a fancy, but broken one. Good visualization always deserves a fair amount of time and efforts.
 
 ## Final Thoughts
   
 Remember in the movie "Matrix", Neo asked Trinity whether she could operate a helicopter, and she said "Not yet" because she know she was going to learn it in a few seconds? Well, it feels a bit like that in the bootcamp. And things you thought you knew, there might be a better way. Chances are, whatever knowledge gap you have, you will be able to figure it out, or at least a feasible direction, with your "support group" that consists of the instructors, the TAs, and the rest of the class. It's wonderful.
 
-### [Return to list of blog posts](../README.md)
+### [Return to main list](../README.md)
