@@ -36,7 +36,8 @@ The subway stations were ranked using a weighted scoring system that accounted f
 ![volume_rank](./top_stations.png)
 ![score_chart](./score_chart.png)
     
-Unfortunately, we didn't have enough time to finalize the visualizaiton of the recommended stations on a city map. I'll finish the map visualization in a follow-up post.
+Unfortunately, we didn't have enough time to finalize the visualizaiton of the recommended stations on a city map. In a future post I'll dig further into geographical visualization. Anyways, here's a simple visualization of the top 10 (11) stations using maps generated through Google Map static map API. Note that "34 ST - HERALD" and "34 ST - PENN" are essentially at the same location, therefore the 11th in the rank is also added.  
+![map](./station_map.png)
 
 ### The Presentation
 One thing I regret about Project Benson, is not giving enough time to prepare and actually practice the presentation. Our TA offered several times to go over the slides with us, but we were racing against time to get our data in a better shape, without realizing on a practical level that there was always more data and better model, but they mean nothing if you cannot communicate them well. By the way, we also remembered the starting time wrong, which was a careless mistake that significantly cost our performance. 
