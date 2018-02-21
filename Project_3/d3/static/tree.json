@@ -1,0 +1,303 @@
+{
+	"name": "Hey, how well can you smell? ",
+	"children": [
+		{
+			"name": "Good nose",
+			"children": [
+				{
+					"name": "No distinct smells",
+					"children": [
+						{
+							"name": "Spore print available",
+							"children": [
+								{
+									"name": "Spore print color is green",
+									"children": [
+										{
+											"name": "--> High risk!"
+										}
+									]
+								},
+								{
+									"name": "Colors other than green",
+									"children":[
+										{
+											"name": "Stalk surface below ring is scaly",
+											"children":[
+												{
+													"name": "Stalk color above ring is brown",
+													"children":[
+														{
+															"name": "--> Low risk"
+														}
+													]
+												},
+												{
+													"name": "Stalk color above ring not brown",
+													"children":[
+														{
+															"name": "--> High risk"
+														}
+													]
+												}
+											]
+										},
+										{
+											"name": "Not scaly",
+											"children":[
+												{
+													"name": "Cap surface has grooves",
+													"children":[
+														{
+															"name":"--> High risk!"
+														}
+													]
+												},
+												{
+													"name": "Cap surface smooth or fibrous",
+													"children":[
+														{
+															"name": "Growing in leaves",
+															"children":[
+																{
+																	"name":"cap color is white",
+																	"children":[
+																		{
+																			"name":"--> High risk!"
+																		}
+																	]
+																},
+																{
+																	"name": "cap color not white",
+																	"children": [
+																		{
+																			"name":"--> Low risk"
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Other habitat",
+															"children":[
+																{
+																	"name":"--> Low risk"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Spore print not available",
+							"children":[
+								{
+									"name":"Stalk surface below ring is scaly",
+									"children": [
+										{
+											"name": "--> High risk!"
+										}
+									]
+								},
+								{
+									"name":"Stalk surface below ring is not scaly",
+									"children": [
+										{
+											"name": "--> Low risk"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Has a distinct smell",
+					"children":[
+						{
+							"name": "Bruises when broken",
+							"children":[
+								{
+									"name": "smells like almond",
+									"children":[
+										{
+											"name":"--> Low risk"
+										}
+									]
+								},
+								{
+									"name": "Does not smell like almond",
+									"children":[
+										{
+											"name": "Stalk surface below ring is scaly",
+											"children":[
+												{
+													"name":"--> Low risk"
+												}
+											]
+										},
+										{
+											"name": "Stalk surface below ring not scaly",
+											"children":[
+												{
+													"name": "gill color is gray",
+													"children":[
+														{
+															"name":"--> Low risk"
+														}
+													]
+												},
+												{
+													"name": "gill color other than gray",
+													"children":[
+														{
+															"name": "gill spacing is crowded",
+															"children":[
+																{
+																	"name":"--> Low risk"
+																}
+															]
+														},
+														{
+															"name": "gill spacing not crowded",
+															"children":[
+																{
+																	"name":"--> High risk!"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "No bruises",
+							"children":[
+								{
+									"name":"--> High risk!"
+								}
+							]
+						}
+					]
+				}
+			]
+
+		},
+		{
+			"name": "Bad nose",
+			"children":[
+				{
+					"name":"Spore print available",
+					"children": [
+						{
+							"name": "Gill color is yellow",
+							"children": [
+								{
+									"name": "Stalk color above ring is orange",
+									"children":[
+										{
+											"name":"--> Low risk"
+										}
+									]
+								},
+								{
+									"name": "Stalk color above ring not orange",
+									"children":[
+										{
+											"name":"--> High risk!"
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Gill color not yellow",
+							"children": [
+								{
+									"name": "stalk color below ring is yellow",
+									"children": [
+										{
+											"name":"--> High risk!"
+										}
+									]
+								},
+								{
+									"name": "stalk color below ring is brown",
+									"children":[
+										{
+											"name": "stalk color above ring is yellow",
+											"children":[
+												{
+													"name": "--> High risk!"
+												}
+											]
+										},
+										{
+											"name": "stalk color above ring not yellow",
+											"children":[
+												{
+													"name": "stalk color above ring is brown",
+													"children":[
+														{
+															"name": "--> High risk!"
+														}
+													]
+												},
+												{
+													"name": "stalk color above ring not brown",
+													"children":[
+														{
+															"name": "Cap surface is smooth",
+															"children": [
+																{
+																	"name":"--> Uncertain. Obtain spore print to determine."
+																}
+															]
+														},
+														{
+															"name": "cap surface fibrous/scaly",
+															"children":[
+																{
+																	"name": "uncertain. Likely edible but proceed with caution."
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name":"Don't have spore print",
+					"children":[
+						{
+							"name": "Gill color is yellow"
+						},
+						{
+							"name": "Gill color not yellow"
+						}
+					]
+
+				}
+			]
+		}
+	]
+}
+
+
+
+
