@@ -1,13 +1,40 @@
 {
   "embeddings": [
     {
-      "tensorName": "LSA-120topics",
+      "tensorName": "LSA-120_topics",
       "tensorShape": [
         1000,
         120
       ],
       "tensorPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_data_120.tsv",
       "metadataPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_meta_120.tsv"
+    },
+    {
+      "tensorName": "LSA-100_topics",
+      "tensorShape": [
+        1000,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_data_100.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_meta_100.tsv"
+    },
+    {
+      "tensorName": "LSA-75_topics",
+      "tensorShape": [
+        1000,
+        75
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_data_75.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_meta_75.tsv"
+    },
+    {
+      "tensorName": "LSA-50_topics",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_data_50.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_meta_50.tsv"
     }
   ]
 }
