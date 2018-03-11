@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My LSA-120topics",
+      "tensorShape": [
+        1000,
+        120
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_data_120.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/sealoving/Liang_Metis/master/Project_4/data/lsa_meta_120.tsv"
+    }
+  ]
+}
